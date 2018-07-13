@@ -1,0 +1,12 @@
+PODS:
+  - PreviewTransition (3.0.1)
+
+DEPENDENCIES:
+  - PreviewTransition
+
+SPEC CHECKSUMS:
+  PreviewTransition: 626eb437009d04e24d177d2d1e65de2a705829ed
+
+PODFILE CHECKSUM: 9292dbf5529caf7d43156eae78010471086ce0e1
+
+COCOAPODS: 1.2.1
